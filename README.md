@@ -1,2 +1,3 @@
 # jakelevi1996.github.io
-Personal / academic website
+
+Personal / academic website: [jakelevi1996.github.io](https://jakelevi1996.github.io/)
