@@ -1,11 +1,13 @@
+html {
+    background: linear-gradient(to top, #000050, #000000);
+    background-attachment: fixed;
+}
 body {
     font-family: monospace;
     max-width: 600px;
     margin: auto;
     padding: 20px;
     text-align: left;
-    background: linear-gradient(to top, #000050, #000000);
-    background-attachment: fixed;
     color: #fefae0;
     line-height: 1.5;
     font-size: 16px;
