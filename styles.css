@@ -29,6 +29,8 @@ td {
 }
 td:first-of-type {
     text-align: right;
+    vertical-align: top;
+    white-space: nowrap;
 }
 td:last-of-type {
     text-align: left;
