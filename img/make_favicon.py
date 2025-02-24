@@ -32,4 +32,5 @@ def make_icon(
     mp.save(name, "img")
 
 make_icon(32/4, "favicon")
+make_icon(144/4, "icon_144")
 make_icon(160, "icon_large")
