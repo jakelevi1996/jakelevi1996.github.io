@@ -16,6 +16,11 @@ h1, h2 {
     text-align: center;
     letter-spacing: 10px;
 }
+h1 a:link,
+h2 a:link {
+    text-decoration: none;
+    color: inherit;
+}
 a:link      {color: #0ff}
 a:visited   {color: #0ff}
 a:hover     {color: #f0f}
