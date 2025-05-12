@@ -1,5 +1,5 @@
 html {
-    background: linear-gradient(to top, #000050, #000000);
+    background: #181f1a;
     background-attachment: fixed;
 }
 body {
@@ -8,7 +8,7 @@ body {
     margin: auto;
     padding: 20px;
     text-align: left;
-    color: #fefae0;
+    color: #e8e3d3;
     line-height: 1.5;
     font-size: 16px;
 }
@@ -22,10 +22,10 @@ h2 a:link {
     text-decoration: none;
     color: inherit;
 }
-a:link      {color: #0ff}
-a:visited   {color: #0ff}
-a:hover     {color: #f0f}
-a:active    {color: #88f}
+a:link      {color: #6aa84f}
+a:visited   {color: #6aa84f}
+a:hover     {color: #6d9eeb}
+a:active    {color: #b4a7d6}
 table {
     border-collapse: collapse;
     margin: auto;
