@@ -47,8 +47,12 @@ td:last-of-type {
     height: auto;
     border-radius: 50%;
     display: block;
-    margin: 0 auto 50px;
+    margin: 0 auto 40px;
 }
 .extra_emphasis {
     border: 1px solid;
+}
+.centre {
+    text-align: center;
+    margin: auto auto 50px;
 }
