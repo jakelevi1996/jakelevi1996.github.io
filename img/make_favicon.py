@@ -10,7 +10,7 @@ def make_icon(
                 [0, 0],
                 1,
                 ec=None,
-                fc="#000050",
+                fc="#001100",
             ),
             plotting.Text(
                 *[0, -0.15],

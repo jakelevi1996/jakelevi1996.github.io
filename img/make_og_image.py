@@ -5,20 +5,18 @@ black = [0, 0, 0]
 
 mp = plotting.MultiPlot(
     plotting.Subplot(
-        plotting.ImShow(
-            [[black, black], [dark_blue, dark_blue]],
-            interpolation="bicubic",
-            aspect="auto",
-            extent=[-1, 1, -1, 1],
-        ),
         plotting.Text(
             *[0, -0.15],
-            "J",
+            "JL",
             fs=200,
             fontfamily="monospace",
             c="#fefae0",
         ),
+        xlim=[-1, 1],
+        ylim=[-1, 1],
+        axis_off=True,
     ),
+    colour="#001100",
     pad=0,
     figsize=[6, 4],
     dpi=160,
