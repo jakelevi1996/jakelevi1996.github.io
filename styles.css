@@ -53,6 +53,7 @@ td:last-of-type {
     border-radius: 50%;
     display: block;
     margin: 0 auto 40px;
+    border: 1pt solid #fefae0;
 }
 .extra_emphasis {
     border: 1px solid;
