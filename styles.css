@@ -11,6 +11,7 @@ body {
     color: #fefae0;
     line-height: 1.5;
     font-size: 16px;
+    animation: fade_frames 1.5s ease-out;
 }
 h1,
 h2 {
@@ -60,4 +61,12 @@ td:last-of-type {
 .centre {
     text-align: center;
     margin: auto auto 50px;
+}
+@keyframes fade_frames {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
